@@ -1,2 +1,1 @@
-# eCommerce_Food
-React application for eCommerce, any type of food. First iteration uses pizza and desserts.
+React Application for eCommerce, the current iteration is a site selling Pizza and Desserts.
