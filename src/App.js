@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Switch>
-        <Route exact path='/' component={HomePage} />
+        <Route exact path='/eCommerce_Food' component={HomePage} />
         <Route path='/shop' component={Shop} />
         <Route path='/product/:id' component={SingleProduct} />
         <Route path='*' component={NotFound} />
