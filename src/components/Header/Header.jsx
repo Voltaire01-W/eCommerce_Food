@@ -7,11 +7,11 @@ const Header = () => {
     return (
         <nav className='nav-menu container'>
             <div className='logo'>
-                <Link to='/'>Pizza</Link>
+                <Link to='/eCommerce_Food'>Pizza</Link>
             </div>
             <ul>
                 <li>
-                    <Link to='/'>
+                    <Link to='/eCommerce_Food'>
                      Home
                     </Link>
                 </li>
