@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/eCommerce_Food/static/css/main.ac5485a2.chunk.css",
+    "main.js": "/eCommerce_Food/static/js/main.46e6c800.chunk.js",
+    "main.js.map": "/eCommerce_Food/static/js/main.46e6c800.chunk.js.map",
+    "runtime-main.js": "/eCommerce_Food/static/js/runtime-main.b50a8bcd.js",
+    "runtime-main.js.map": "/eCommerce_Food/static/js/runtime-main.b50a8bcd.js.map",
+    "static/js/2.625fab78.chunk.js": "/eCommerce_Food/static/js/2.625fab78.chunk.js",
+    "static/js/2.625fab78.chunk.js.map": "/eCommerce_Food/static/js/2.625fab78.chunk.js.map",
+    "static/js/3.8e24b4cb.chunk.js": "/eCommerce_Food/static/js/3.8e24b4cb.chunk.js",
+    "static/js/3.8e24b4cb.chunk.js.map": "/eCommerce_Food/static/js/3.8e24b4cb.chunk.js.map",
+    "index.html": "/eCommerce_Food/index.html",
+    "static/css/main.ac5485a2.chunk.css.map": "/eCommerce_Food/static/css/main.ac5485a2.chunk.css.map",
+    "static/js/2.625fab78.chunk.js.LICENSE.txt": "/eCommerce_Food/static/js/2.625fab78.chunk.js.LICENSE.txt",
+    "static/media/featured.3379048f.jpg": "/eCommerce_Food/static/media/featured.3379048f.jpg",
+    "static/media/Hero.styles.scss": "/eCommerce_Food/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/eCommerce_Food/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/eCommerce_Food/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/eCommerce_Food/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/eCommerce_Food/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/eCommerce_Food/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/eCommerce_Food/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b50a8bcd.js",
+    "static/js/2.625fab78.chunk.js",
+    "static/css/main.ac5485a2.chunk.css",
+    "static/js/main.46e6c800.chunk.js"
+  ]
+}
