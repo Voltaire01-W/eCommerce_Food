@@ -8,7 +8,8 @@ Handcrafted pizza made to satisfy every craving you have. You will find our pizz
 
 ### About the project:
 
-This app is an ecommerce app
+This is an e-commerce application.
+
 Tech stack used:
 - ReactJS
 - Node.js
