@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/eCommerce_Food/static/css/main.e2ecd0b4.chunk.css",
+    "main.css": "/eCommerce_Food/static/css/main.ef149be4.chunk.css",
     "main.js": "/eCommerce_Food/static/js/main.5307bfcc.chunk.js",
     "main.js.map": "/eCommerce_Food/static/js/main.5307bfcc.chunk.js.map",
     "runtime-main.js": "/eCommerce_Food/static/js/runtime-main.3e1ebf57.js",
@@ -10,7 +10,7 @@
     "static/js/3.764cf82e.chunk.js": "/eCommerce_Food/static/js/3.764cf82e.chunk.js",
     "static/js/3.764cf82e.chunk.js.map": "/eCommerce_Food/static/js/3.764cf82e.chunk.js.map",
     "index.html": "/eCommerce_Food/index.html",
-    "static/css/main.e2ecd0b4.chunk.css.map": "/eCommerce_Food/static/css/main.e2ecd0b4.chunk.css.map",
+    "static/css/main.ef149be4.chunk.css.map": "/eCommerce_Food/static/css/main.ef149be4.chunk.css.map",
     "static/js/2.3984bc13.chunk.js.LICENSE.txt": "/eCommerce_Food/static/js/2.3984bc13.chunk.js.LICENSE.txt",
     "static/media/featured.3379048f.jpg": "/eCommerce_Food/static/media/featured.3379048f.jpg",
     "static/media/Hero.styles.scss": "/eCommerce_Food/static/media/pizza-3.f2f9b9a4.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.3e1ebf57.js",
     "static/js/2.3984bc13.chunk.js",
-    "static/css/main.e2ecd0b4.chunk.css",
+    "static/css/main.ef149be4.chunk.css",
     "static/js/main.5307bfcc.chunk.js"
   ]
 }
