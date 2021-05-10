@@ -7,7 +7,7 @@ import SingleProduct from './components/Single-product/Single-product';
 import CartPage from './components/Pages/Cart-page/Cart-page';
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Switch>
         <Route exact path='/eCommerce_Food' component={HomePage} />
         <Route path='/shop' component={Shop} />

@@ -5,9 +5,9 @@ import CartIcon from '../cart-icon/cart-icon';
 
 const Header = () => {
     return (
-        <nav className='nav-menu container'>
+        <nav className='nav-menu'>
             <div className='logo'>
-                <Link to='/eCommerce_Food'>Pizza</Link>
+                <Link to='/eCommerce_Food'>Khan's Pizza Place!</Link>
             </div>
             <ul>
                 <li>

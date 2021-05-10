@@ -55,10 +55,10 @@ const SingleProduct = ({ match, history: {push} }) => {
                                 className='button is-white nomad-btn' 
                                 id='btn-white-outline'
                                 onClick={() => increase(product)}>
-                                    ADD MORE
+                                    CUSTOMIZE
                             </button>
                         }
-                        <button className='button is-black nomad-btn' id='btn-white-outline'>
+                        <button className='button is-black nomad-btn' id='btn-white-outline' onClick={() => push('/cart')}>
                             PROCEED TO CHECKOUT
                         </button>
                     </div>

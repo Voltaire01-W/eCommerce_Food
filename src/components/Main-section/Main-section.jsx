@@ -16,7 +16,7 @@ const MainSection = ({ history }) => {
                         Handcrafted to perfection in our kitchens, 
                         You will find our pizza to be the best in the world.
                     </p>
-                    <button className='button is-black' id='shop-now' onClick={() => history.push('/product/1')}>
+                    <button className='button is-black' id='shop-now' onClick={() => history.push('/shop')}>
                         Order Now
                     </button>
                 </div>

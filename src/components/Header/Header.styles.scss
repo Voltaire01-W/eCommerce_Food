@@ -1,6 +1,7 @@
 .nav-menu {
     display: flex;
     padding: 1rem;
+    background-color: rgba(218, 92, 8, 0.425);
 
     a {
         text-decoration: none;
@@ -21,6 +22,7 @@
         li {
             display: inline-block;
             margin: 0 1rem;
+            font-size: 1.5rem;
         }
     }
 }

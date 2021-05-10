@@ -5,7 +5,7 @@ import './cart-icon.styles.scss';
 import { CartContext } from '../../Context/Cart-context';
 
 const CartIcon = ({ history }) => {
-    const { itemCount, cartItems } = useContext(CartContext);
+    const { itemCount } = useContext(CartContext);
     return (
         <div className='cart-container' onClick={() => history.push('/cart')}>
             <img src={shoppingBag} alt='shopping-cart-icon' />
